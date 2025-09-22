@@ -27,7 +27,7 @@
 <br>
 <br>
 
-### 👩🏻‍💻 [Стек](https://github.com/Arrinna/Arrinna/blob/main/nice_viz.md)
+### 👩🏻‍💻 [Hard Skills](https://github.com/Arrinna/Arrinna/blob/main/nice_viz.md)
 
 + SQL (joins, subqueries, CTE, window functions)
 + Python (Pandas, Numpy, Matplotlib, Seaborn, sklearn)
