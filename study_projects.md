@@ -1,5 +1,5 @@
 
-# Учебные кейсы
+# Учебные проекты
 <br>
 
 🔹 **Оптимизация размещения участников конференции через Airbnb** [case_1_Boston_conf](https://github.com/Arrinna/changellenge_cases/tree/main/case_1_Boston_conf)
