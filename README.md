@@ -1,11 +1,13 @@
+<!-- TODO: Переписать интро -->
+<!-- TODO: Переписать скиллы -->
+<!-- TODO: Расписать проекты -->
 
 [Полное резюме](https://github.com/Arrinna/arrinna/blob/main/CV_Arrinna.md) | [CV in English](https://github.com/Arrinna/personal/blob/main/CV_Arrinna_eng.md)
 <br>
 <br>
 ### 👋 Hello, world! 
-Меня зовут **Арина**. Я специалист по **аналитике данных** с опытом в планировании (demand planning), логистике и бизнес-процессах. 
-После 10+ лет работы в крупных международных компаниях (Puma, Nike), где ежедневно соприкасалась с большими объемами данными, решила развивать свой интерес в этом направлении напрямую. 
-Прошла обучение по практиориентированной программе, в рамках которых решали разные задачи бизнеса:
+Меня зовут **Арина**. Я специалист по **аналитике данных** с 10+ опытом в планировании (demand planning), логистике и бизнес-процессах, где ежедневно соприкасалась с большими объемами данными, делала анализ рынка, продукта.
+Прошла также обучение по практиориентированной годичной программе (включающей блоки аналитики данных, продуктовой аналитики, бизнес-аналитики и финансовой аналитики), в рамках которых решали кейсы по разным задачам бизнеса:
 
 - анализ рынка и расчет юнит-экономики для выхода на рынок с новым продуктом
 - оптимизация логистики и бюджета на проведение мероприятия
@@ -14,13 +16,9 @@
 - разработка стратегии модернизации, расчет финмодели
 - разработка концепции нового цифрового продукта, расчет финмодели
 
-
-<br>
 <br>
 
-📩 Telegram [@arrinna](https://t.me/arrinna)
-
-📍 Санкт-Петербург
+📍 Санкт-Петербург | 📩 Telegram [@arrinna](https://t.me/arrinna)
 <br>
 <br>
 🗣 Русский (Родной), English (C1, fluent), Deutsch (B1)
@@ -29,34 +27,28 @@
 
 ### 👩🏻‍💻 [Hard Skills](https://github.com/Arrinna/Arrinna/blob/main/nice_viz.md)
 
-+ SQL (joins, subqueries, CTE, window functions)
-+ Python (Pandas, Numpy, Matplotlib, Seaborn, sklearn)
 + Excel (продвинутые формулы, pivot, Power Query, Power Pivot, макросы VBA)
-+ Google Sheets (+ немного GAS)
-+ базовые навыки по Git, Docker, cli, Linux
-<br>
-<br>
++ SQL (джойны, подзапросы, CTE, оконки), базы данных (PostgreSQL, ClickHouse)
++ Визаулизация, дашборды - Power BI, Tableau, DataLens, Superset
++ Python (Pandas, Numpy, Matplotlib, Seaborn, sklearn)
++ Google Sheets (+ немного google apps script)
++ базовые навыки по git, Docker, cli, Linux
 
 ### 🌱 Soft skills
-+ Умение анализировать и структурировать информацию
++ Умение структурировать и анализировать информацию
 + Быстро обучаться и адаптироваться к новым задачам
 + Эффективно работать в команде и самостоятельно
-<br>
-<br>
-
-<!-- TODO: Проверить текст перед публикацией -->
-
 
 ### 📂 Projects
 
+- Разработка и внедрение дашбордов в рамках компании для различных отделов (Power BI)
 - [Учебные проекты](https://github.com/Arrinna/Arrinna/blob/main/study_projects.md)
-- Разработка Телеграм-бота и Гугл-скриптов для интернет-магазина (Ozon, YandexMarket)
-- Парсинг данных с Ozon и последующая аналитика
+- Разработка Телеграм-бота (Python, requests, telebot) и Гугл-скриптов (GAS) для интернет-магазина (Ozon, YandexMarket)
+- Парсинг данных с Ozon (Python, selenium) и последующая аналитика (Python, pandas)
 
-...
 
 ### ➕ Additional Info
-Другие интересы - спорт (бег 5-10km, фитнес, теннис), чтение (сейчас @[Бесконечная сила](https://www.litres.ru/book/stiven-strogac/beskonechnaya-sila-kak-matematicheskiy-analiz-raskryvaet-ta-65422477/)🔝), хайкинг, волонтерство (эко, соц), медитация, зож
+Другие интересы - спорт (бег 5-10km, фитнес, теннис), чтение (сейчас @[Бесконечная сила](https://www.litres.ru/book/stiven-strogac/beskonechnaya-sila-kak-matematicheskiy-analiz-raskryvaet-ta-65422477/)), хайкинг, волонтерство (эко, соц), медитация, зож
 
 MBTI type: INTJ, Top 5 CliftonStrengths: Intellection, Deliberative, Connectedness, Harmony, Input
 
