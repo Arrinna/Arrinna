@@ -13,10 +13,7 @@
 
 <br>
 
-📍 Санкт-Петербург | 📩 Telegram [@arrinna](https://t.me/arrinna)
-<br>
-<br>
-🗣 Русский (Родной), English (C1, fluent)
+📍 Санкт-Петербург | 📩 Telegram [@arrinna](https://t.me/arrinna) 🗣 Русский (Родной), English (C1, fluent)
 <br>
 <br>
 
