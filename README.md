@@ -20,8 +20,8 @@
 ### 👩🏻‍💻 [Hard Skills](https://github.com/Arrinna/Arrinna/blob/main/nice_viz.md)
 
 + Excel (продвинутые формулы, pivot, Power Query, Power Pivot, макросы VBA)
-+ SQL (джойны, подзапросы, cte, оконки), базы данных (PostgreSQL, ClickHouse)
-+ Визаулизация, дашборды - Power BI, Tableau, DataLens, Superset
++ SQL (джойны, подзапросы, cte, оконки), базы данных (PostgreSQL, ClickHouse), инструменты DBeaver, pgAdmin
++ BI-иструменты, визаулизация, дашборды - больше всего работала с Power BI, также есть небольшой опыт с Tableau, Superset, DataLens
 + Python (Pandas, Numpy, Matplotlib, Seaborn, sklearn)
 + Google Sheets (+ немного google apps script)
 + базовые навыки по git, Docker, cli, Linux
@@ -43,13 +43,13 @@
   - разработка стратегии модернизации, расчет финмодели
   - разработка концепции нового цифрового продукта, расчет финмодели
     
-- Разработка Телеграм-бота (Python, requests, telebot) и Гугл-скриптов (GAS) для интернет-магазина (Ozon, YandexMarket)
-  
-- Парсинг данных с Ozon (Python, selenium) и последующая аналитика (Python, pandas)
+- Пет-проекты:
+  - Разработка Телеграм-бота (Python, requests, telebot) и Гугл-скриптов (GAS) для интернет-магазина (Ozon, YandexMarket)
+  - Парсинг данных с Ozon (Python, selenium) и последующая аналитика (Python, pandas)
 
 
 ### ➕ Additional Info
-Другие интересы - спорт (бег 5-10km, фитнес, теннис), волонтерство (эко, соц), хайкинг, , медитация, зож.
+Другие интересы - спорт (бег 5-10km и теннис), волонтерство (эко, соц), хайкинг, медитация, зож.
 
 MBTI type: INTJ, Top 5 CliftonStrengths: Intellection, Deliberative, Connectedness, Harmony, Input
 
